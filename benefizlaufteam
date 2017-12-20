@@ -1,0 +1,27 @@
+<head>
+<style>
+
+body{
+	background-color:lightblue;
+	font-family:Arial;
+	position: center;
+}
+
+
+</style>
+</head>
+<body>
+<h1>Das Benefizlaufteam</h1>
+<h2>Wir stellen uns vor:</h2>
+
+<ul>
+<li>Anna-Maria Ehrlicher- 1. VS KSB</li>
+<li>Marianne Guggenbichler- GF KSB</li>
+<li>Maria Hessdörfer - Leitung MGH</li>
+<li>Carola Kahles- VS KSB</li>
+<li>Christine Deliano- Vertreterin</li>
+<li>Wirtschaftsförderungsverband</li>
+<li>Konrad Doser- Stadtkämmerer WSB</li>
+<li>Michael Kulinyak - Compexx Finanz</li>
+</ul>
+</body>
