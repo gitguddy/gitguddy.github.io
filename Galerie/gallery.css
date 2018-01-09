@@ -1,0 +1,20 @@
+h1{
+	text-align: center;
+	margin:50px 0 30px;
+}
+
+img {
+    padding: 5px;
+    width: 150px;
+    max-height: 100px;
+    object-fit: contain;
+    filter: grayscale(100%);
+    transition: 1s;
+}
+
+img:hover {
+
+filter:grayscale(0);
+transform: scale(1.05);
+
+}
